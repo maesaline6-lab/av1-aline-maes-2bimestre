@@ -5,8 +5,8 @@ body {
 }
 
 header {
-  background-color: #222;
-  color: white;
+  background-color: #00144d;
+  color: rgb(138, 166, 255);
   padding: 20px;
   text-align: center;
   border: #444;
@@ -14,19 +14,19 @@ header {
 
 nav {
   padding: 20px;
-  background-color: #444;
+  background-color: #001e70;
   padding: 10px;
   text-align: center;
 }
 
 nav a {
-  color: white;
-  text-decoration: none;
+  color: rgb(138, 166, 255);
+  text-decoration: #222;
   margin: 10px;
 }
 
 nav a:hover {
-  text-decoration: underline;
+  text-decoration: #ff2c2c;
 }
 
 main {
