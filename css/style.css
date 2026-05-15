@@ -49,3 +49,7 @@ footer {
   bottom: 0;
   width: 100%;
 }
+
+iframe {
+  border-radius: 40px 40px;
+}
