@@ -68,3 +68,14 @@ iframe {
   object-fit: contain;
   display: inline-block;
 }
+
+table {
+  width: 100%;
+  margin: 50px auto;
+  border-collapse: collapse;
+}
+
+th,
+td {
+  border: 3px solid #052797;
+}
